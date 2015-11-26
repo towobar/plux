@@ -1,2 +1,2 @@
 # plux
-First Repository
+First Repository Desription
