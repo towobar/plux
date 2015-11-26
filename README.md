@@ -1,2 +1,2 @@
 # plux
-Demo Repository
+First Repository
